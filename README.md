@@ -1,6 +1,6 @@
 # DVHacktoberfest 
 
-Check out https://dvhf.vercel.app for our student directory!
+Check out https://dvhf.vercel.app for our student directory! [Click here for the slides!](https://docs.google.com/presentation/d/1ckrkkMdbu9Wyi_6qNgDATXsBoszSQKIjFk6Nzcxz1uM/edit?pli=1#slide=id.g175e7f3e54d_7_113)
 
 <img src="https://doggo.ninja/HX2lrK.gif"/>
 
