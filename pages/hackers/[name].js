@@ -31,6 +31,7 @@ export default function Post({ name, md, ...props }) {
       <Head>
         <title>{name}</title>
       </Head>
+      <a href="/">{`<`} Back</a>
       <h1>{name}</h1>
       <p dangerouslySetInnerHTML={{ __html: md }}></p>
     </>
