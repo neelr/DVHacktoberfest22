@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-template",
+  "version": "1.0.0",
+  "description": "template for nextjs",
+  "scripts": {
+    "build": "next build",
+    "export": "npm run build && next export",
+    "test": "next"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "github-markdown-render": "^2.1.0",
+    "next": "^13.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
