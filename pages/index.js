@@ -16,7 +16,7 @@ export default function App({ people, ...props }) {
 }
 
 export async function getStaticProps(context) {
-  const fnames = fs.readdirSync("./public/people");
+  const fnames = fs.readdirSync("./people");
   return {
     props: { people: fnames },
   };
