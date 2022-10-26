@@ -5,7 +5,7 @@ export default function App({ people, ...props }) {
   return (
     <>
       <h1>dvhacktoberfest 🎃 ~~</h1>
-      <img src="https://media4.giphy.com/media/THlB4bsoSA0Cc/200.gif" />
+      <img src="https://doggo.ninja/HX2lrK.gif" />
       <br />
       <p>
         during spooky season, contribute to something spectacularly unspooky—a
