@@ -1,5 +1,20 @@
-# Nextjs template
+1. Go to https://hacktoberfest.com and click the "Start Hacking" Button
+<img src="https://doggo.ninja/a7wsVg.png"/>
+2. Sign in to GitHub and fill out the form as a "Contributer" 
 
-This template is super easy to use! Just type in `npm run test` to start the dev server and done!
+![image](https://user-images.githubusercontent.com/35831013/197941514-765060ed-80d2-4baa-aab9-7b1180fc4b4d.png)
 
-Uses nextjs, theme-ui, and rebass so its really cool along with a base theme! Check out more theme's for this at https://theme-ui.com, or make your own!
+3. Come back to this repo website, and click the "people" folder
+<img src="https://doggo.ninja/QuhLOl.png"/>
+4. Click on "Add File" and "Create New File"
+<img src="https://doggo.ninja/FFnDlR.png"/>
+5. Edit up that file! Name it "yourname.md", and put whatever you want inside of it—maybe your insta, email, or phone #
+<img src="https://doggo.ninja/1tC3d9.png"/>
+6. Scroll down a bit and click "Propose File"
+<img src="https://doggo.ninja/UVJ7R5.png"/>
+7. Lastly just click "Create Pull Request" once, and then get redirected to a page where you click the green "Create Pull Request" button again! 
+<img src="https://doggo.ninja/CRyAST.png"/>
+
+8. And BAM, You're done! 🎉🎉🎉🎉
+
+Wait for @neelr to approve your request, but as soon as its done, you'll have 1/4 pull requests done for hacktoberfest and have your own page at https://dvhf.vercel.app
