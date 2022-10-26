@@ -1,4 +1,7 @@
 # DVHacktoberfest 
+
+Check out https://dvhf.vercel.app for our student directory!
+
 Learn about open source, while making a cool student directory! For advanced people, you need to register on https://hacktoberfest.com, and make a markdown file in the "people" folder. Then just make a pull request and you should be done!
 
 If that didn't make sense, scroll down and check out the step-by-step guide!
